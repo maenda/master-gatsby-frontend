@@ -1,5 +1,3 @@
-// Todo: vid 18 - 11:52
-
 import React from 'react';
 import { graphql } from 'gatsby';
 import PizzaList from '../components/PizzaList';
